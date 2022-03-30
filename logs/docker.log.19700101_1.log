@@ -1,0 +1,61 @@
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Writing log to a file\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"curl: (7) Failed to connect to fluentd port 9880 after 1 ms: Connection refused\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Writing log to a file\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"curl: (7) Failed to connect to fluentd port 9880 after 10 ms: Connection refused\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Writing log to a file\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"curl: (7) Failed to connect to fluentd port 9880 after 1 ms: Connection refused\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Writing log to a file\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"curl: (7) Failed to connect to fluentd port 9880 after 1 ms: Connection refused\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Writing log to a file\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"curl: (7) Failed to connect to fluentd port 9880 after 1 ms: Connection refused\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Writing log to a file\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"curl: (7) Failed to connect to fluentd port 9880 after 1 ms: Connection refused\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Writing log to a file\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"curl: (7) Failed to connect to fluentd port 9880 after 1 ms: Connection refused\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Writing log to a file\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"curl: (7) Failed to connect to fluentd port 9880 after 2 ms: Connection refused\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Writing log to a file\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"curl: (7) Failed to connect to fluentd port 9880 after 2 ms: Connection refused\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Writing log to a file\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Sending logs to FluentD\n","stream":"stdout"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"curl: (7) Failed to connect to fluentd port 9880 after 1 ms: Connection refused\n","stream":"stderr"}
+1970-01-01T00:33:42+00:00	docker.log	{"log":"Writing log to a file\n","stream":"stdout"}
