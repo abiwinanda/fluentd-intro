@@ -1,5 +1,7 @@
 # Introduction to Fluentd
 
+Sample Fluentd app to send logs to file, http, or elasticsearch
+
 ## Collecting logs from files
 
 Reading logs from a file we need an application that writes logs to a file. <br/>
